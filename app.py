@@ -85,7 +85,7 @@ def analyze_with_claude(pdf_bytes):
     pdf_b64 = base64.standard_b64encode(pdf_bytes).decode("utf-8")
     
     response = client.messages.create(
-        model="claude-sonnet-4-5-20250514",
+        model="claude-sonnet-4-5-20250929",
         max_tokens=2048,
         system=SYSTEM_PROMPT,
         messages=[
