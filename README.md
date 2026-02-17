@@ -12,7 +12,7 @@ A Streamlit web app that analyzes PDF documents using AI models (Claude Sonnet 4
 
 ## Live Demo
 
-[ai-doc-analyzer.streamlit.app](https://ai-doc-analyzer.streamlit.app)
+[ai-doc-analyzer.streamlit.app](https://ai-doc-analyzer-u3e5w6gjjfdfdpvgkd4rgb.streamlit.app)
 
 ## Run Locally
 
